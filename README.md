@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Sapna Choudhary👋
 
 - 🔭 I’m a fresher
 - 🌱 I’m currently learning React JS
