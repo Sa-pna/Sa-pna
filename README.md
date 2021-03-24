@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Sapna</h1>
-<h4 align="center">I'm a final year student pursuing B.Tech in computer science from Mahakal Institute of Technology & Management, Ujjain. I'm passionate learner who is always willing to learn & work across technologies and domain.I love to explore new technologies and leverage them to solve real life problems.</h4>
+<h5>I'm a final year student pursuing B.Tech in computer science from Mahakal Institute of Technology & Management, Ujjain. I'm passionate learner who is always willing to learn & work across technologies and domain.I love to explore new technologies and leverage them to solve real life problems.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-pna&label=Profile%20views&color=0e75b6&style=flat" alt="sa-pna" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
