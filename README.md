@@ -1,14 +1,20 @@
-<h1 align="center">Hello 👋, I'm Sapna Choudhary</h1>
-<h3 align="center">Passionate for Programming and Development</h3>
+<h1 align="center">Hello there 👋, I'm Sapna</h1>
+<h4 align="center">I'm a final year student pursuing B.Tech in computer science from Mahakal Institute of Technology & Management, Ujjain. I'm passionate learner who is always willing to learn & work across technologies and domain.I love to explore new technologies and leverage them to solve real life problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa-pna&label=Profile%20views&color=0e75b6&style=flat" alt="sa-pna" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on web development
 
-- 📫 How to reach me **spnc62@gmail.com**
+- 🌱 I’m currently learning Flutter and MongoDB
+
+- 👨‍💻  In mean time, I create visual & artistic designs
 
 - ⚡ Fun fact **I love memes on programming**
+
+- 🤝 Always willing to help
+
+- 📫 How to reach me **spnc62@gmail.com**
 
 - 👨‍💻 You can also check out my instagram page of graphic designs <a href="https://instagram.com/justcreateee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sa-pna" alt="sa-pna" /></a> </p>
