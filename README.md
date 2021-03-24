@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sapnachoudhary51320@gmail.com**
 
-- ⚡ Fun fact ** I love memes on programming**
+- ⚡ Fun fact I love memes on programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
