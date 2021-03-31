@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Flutter and Linux**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻  In mean time, I create **visual & artistic designs**
 
