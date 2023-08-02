@@ -15,9 +15,6 @@
 - 🤝 Always willing to **help**
 
 - 📫 How to reach me **spnc62@gmail.com**
-
-- 👨‍💻 You can also check out my graphic designs
-<a href="https://instagram.com/justcreateee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sa-pna" alt="sa-pna" /></a> </p>
 
 
