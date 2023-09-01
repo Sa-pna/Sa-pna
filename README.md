@@ -10,8 +10,6 @@
 
 - 👨‍💻  In mean time, I create **visual & artistic designs**
 
-- ⚡ Fun fact **I love memes on programming**
-
 - 🤝 Always willing to **help**
 
 - 📫 How to reach me **spnc62@gmail.com**
